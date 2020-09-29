@@ -22,8 +22,9 @@
 
 ### [LinkedIn](https://www.linkedin.com/in/tyler-maiello-672446172/)
 
+<!--
 [![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tmaiello&hide=issues,contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 <!--
 ### Hi there 👋
