@@ -13,12 +13,12 @@
 - 😄  Pronouns: He/Him
 - 📫  How to reach me: tmaiello3@gmail.com
 - 🎮  Hobbies: Video Games, Music
-- 🔭 I’m currently working on: Rewriting my website & a bunch of school projects!
+- 🔭 I’m currently working on: a bunch of school projects!
 
 ### Experience
 
-- Software Engineering Program Intern at J.P. Morgan & Chase Co.
-- Teaching Assistant at the University of Florida for Operating Systems (x2) and Computer Organization
+- Former Software Engineering Program Intern at J.P. Morgan & Chase Co.
+- Teaching Assistant at the University of Florida for Design Patterns, Operating Systems (x2), and Computer Organization
 
 ### [LinkedIn](https://www.linkedin.com/in/tyler-maiello-672446172/)
 
