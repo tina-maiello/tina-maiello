@@ -4,21 +4,23 @@
 
 ### Tech Stack
 
-- **Languages :** Java, C++, Python, C, JavaScript, HTML, CSS, ARMv8, Bash
-- **Technologies :** Spring, SQL, Nodejs, React, Angular/JS
+- **Languages :** Java, Python, C++, C, JavaScript, HTML, CSS, ARMv8, Bash
+- **Technologies :** Spring, Kafka, Message Queues, SQL, Nodejs, Cassandra, NoSQL, React, Angular/JS,
+- **Skills :** Production Management, Site Reliability Engineering, Technical Operations, Cybersecurity, Penetration Testing, Microservices, Design Patterns
 
 ### About Me
 
-- ⚡  Senior at the University of Florida
+- ⚡  Bachelor of Science in Computer Science from University of Florida
 - 😄  Pronouns: He/Him
 - 📫  How to reach me: tmaiello3@gmail.com
 - 🎮  Hobbies: Video Games, Music
-- 🔭 I’m currently working on: a bunch of school projects!
+- 🔭  I’m currently working on: working my full-time job :-)
 
 ### Experience
 
+- SEP Software Engineer I - J.P. Morgan & Chase Co.
 - Former Software Engineering Program Intern at J.P. Morgan & Chase Co.
-- Teaching Assistant at the University of Florida for Design Patterns, Operating Systems (x2), and Computer Organization
+- Former Teaching Assistant at the University of Florida for Design Patterns, Operating Systems (x2), and Computer Organization
 
 ### [LinkedIn](https://www.linkedin.com/in/tyler-maiello-672446172/)
 
