@@ -11,7 +11,6 @@
 ### About Me
 
 - ⚡  Bachelor of Science in Computer Science from University of Florida
-- 😄  Pronouns: He/Him
 - 📫  How to reach me: tmaiello3@gmail.com
 - 🎮  Hobbies: Video Games, Music
 - 🔭  I’m currently working on: working my full-time job :-)
