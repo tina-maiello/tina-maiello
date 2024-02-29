@@ -18,7 +18,7 @@
 ### Experience
 
 - Software Engineer II - J.P. Morgan & Chase Co.
-- SEP Software Engineer I - J.P. Morgan & Chase Co.
+- Former SEP Software Engineer I & II - J.P. Morgan & Chase Co.
 - Former Software Engineering Program Intern at J.P. Morgan & Chase Co.
 - Former Teaching Assistant at the University of Florida for Design Patterns, Operating Systems (x2), and Computer Organization
 
