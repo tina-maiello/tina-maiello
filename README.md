@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Tyler
+### Hi there! 👋 I'm Tina
 
 ---
 
@@ -17,11 +17,12 @@
 
 ### Experience
 
+- Software Engineer II - J.P. Morgan & Chase Co.
 - SEP Software Engineer I - J.P. Morgan & Chase Co.
 - Former Software Engineering Program Intern at J.P. Morgan & Chase Co.
 - Former Teaching Assistant at the University of Florida for Design Patterns, Operating Systems (x2), and Computer Organization
 
-### [LinkedIn](https://www.linkedin.com/in/tyler-maiello-672446172/)
+### [LinkedIn](https://www.linkedin.com/in/tina-maiello-672446172/)
 
 <!--
 [![Tyler's github stats](https://github-readme-stats.vercel.app/api?username=tmaiello&hide=issues,contribs,stars)](https://github.com/anuraghazra/github-readme-stats)
