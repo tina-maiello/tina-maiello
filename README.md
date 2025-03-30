@@ -2,6 +2,6 @@ hi im tina o/
 
 i make things.. sometimes :)
 
-inquiries: tina.maiello.biz@pm.em
+not currently looking for work
 
-[LinkedIn](https://www.linkedin.com/in/tina-maiello-672446172/)
+inquiries: tina.maiello.biz@pm.em
